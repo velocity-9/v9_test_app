@@ -2,4 +2,5 @@ Test number 0: 404 page not found
 Test number 1: 200 OK, but no response from the server
 Test number 2: 200 OK, server received request but printed payload as <nil>
 Test number 3: 200 OK, request received but error not null
-Test number 4: 
+Test number 4: 200 OK, err: request not defined to be parsed
+Test number 5: 
