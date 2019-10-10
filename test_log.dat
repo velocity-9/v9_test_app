@@ -1,3 +1,4 @@
 Test number 0: 404 page not found
 Test number 1: 200 OK, but no response from the server
-Test number 2: 
+Test number 2: 200 OK, server received request but printed payload as <nil>
+Test number 3: 
