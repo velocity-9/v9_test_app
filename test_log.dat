@@ -4,4 +4,5 @@ Test number 2: 200 OK, server received request but printed payload as <nil>
 Test number 3: 200 OK, request received but error not null
 Test number 4: 200 OK, err: request not defined to be parsed
 Test number 5: 200 OK, Success, printed json of push event payload
-Test number 6: 
+Test number 6: 200 OK, Success, printed json of push event payload
+Test number 7:
