@@ -6,4 +6,5 @@ Test number 4: 200 OK, err: request not defined to be parsed
 Test number 5: 200 OK, Success, printed json of push event payload
 Test number 6: 200 OK, Success, printed json of push event payload
 Test number 7: 404 Not Found, did not update URL with "/payload"
-Test number 8: 
+Test number 8: 200 OK, Sucess, accessed download URL through push.Repository.URL
+Test number 9: 
