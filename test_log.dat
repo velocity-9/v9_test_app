@@ -10,4 +10,5 @@ Test number 8: 200 OK, Sucess, accessed download URL through push.Repository.URL
 Test number 9: 200 OK, Type of push object "github.PushPayload"
 Test number 10: 200 OK, Parsed download url out of payload
 Test number 11: 200 OK, Built server with download function defined but not called
-Test number 12:
+Test number 12: 200 OK, Error downloading: no source URL was returned
+Test number 13: 
