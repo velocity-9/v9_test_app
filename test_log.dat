@@ -29,4 +29,5 @@ Test number 27: Successfully built .tar
 Test number 28: Success, acquired repo fullname
 Test number 29: Built image but not tar git fullname includes /
 Test number 30: Successfully build .tar
-Test number 31: 
+Test number 31: Didn't run server bad test
+Test number 32: 
