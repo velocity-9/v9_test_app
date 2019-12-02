@@ -27,4 +27,5 @@ Test number 25: Failure to build image failure to build tar
 Test number 26: Failure to build image due to incorrect path
 Test number 27: Successfully built .tar
 Test number 28: Success, acquired repo fullname
-Test number 29: 
+Test number 29: Built image but not tar git fullname includes /
+Test number 30: 
