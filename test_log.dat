@@ -30,4 +30,5 @@ Test number 28: Success, acquired repo fullname
 Test number 29: Built image but not tar git fullname includes /
 Test number 30: Successfully build .tar
 Test number 31: Didn't run server bad test
-Test number 32: 
+Test number 32: Build docker image with unique name but bad tar
+Test number 33: 
