@@ -22,4 +22,5 @@ Test number 20: Success added logging and it works
 Test number 21: Success logging works
 Test number 22: Failure to build tar because shell not in repo dir
 Test number 23: Failure attempt to cd into repo failed
-Test number 24: 
+Test number 24: Success built tar and sent to worker
+Test number 25: 
