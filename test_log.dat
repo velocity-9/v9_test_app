@@ -24,4 +24,5 @@ Test number 22: Failure to build tar because shell not in repo dir
 Test number 23: Failure attempt to cd into repo failed
 Test number 24: Success built tar and sent to worker
 Test number 25: Failure to build image failure to build tar
-Test number 26: 
+Test number 26: Failure to build image due to incorrect path
+Test number 27: 
