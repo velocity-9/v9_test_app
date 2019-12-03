@@ -39,4 +39,5 @@ Test number 37: Failure, tar created clone to server failed
 Test number 38: SCP took too long tars are big, trying gzip
 Test number 39: Success built tar and sent to aws
 Test number 40: Success deployed
-Test number 41: 
+Test number 41: Failure did not update webhook
+Test number 42: 
