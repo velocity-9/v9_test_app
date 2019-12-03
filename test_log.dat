@@ -35,4 +35,5 @@ Test number 33: Success build docker image and tar with unique name
 Test number 34: Success tested unique tar worked on worker
 Test number 35: Success, build tar and sent to worker with go
 Test number 36: Failure, deployment manager pointed locally
-Test number 37: 
+Test number 37: Failure, tar created clone to server failed
+Test number 38: 
