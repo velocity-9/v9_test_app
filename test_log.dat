@@ -44,4 +44,5 @@ Test number 42: Failure to set correct port
 Test number 43: Failure did not install docker
 Test number 44: Failure hard coded paths changed
 Test number 45: Failure OOM
-Test number 46: 
+Test number 46: Failure OOM again getting bigger machine
+Test number 47: 
