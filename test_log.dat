@@ -32,4 +32,5 @@ Test number 30: Successfully build .tar
 Test number 31: Didn't run server bad test
 Test number 32: Build docker image with unique name but bad tar
 Test number 33: Success build docker image and tar with unique name
-Test number 34: 
+Test number 34: Success tested unique tar worked on worker
+Test number 35: 
