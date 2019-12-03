@@ -41,4 +41,5 @@ Test number 39: Success built tar and sent to aws
 Test number 40: Success deployed
 Test number 41: Failure did not update webhook
 Test number 42: Failure to set correct port
-Test number 43: 
+Test number 43: Failure did not install docker
+Test number 44:
