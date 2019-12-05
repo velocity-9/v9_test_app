@@ -46,4 +46,6 @@ Test number 44: Failure hard coded paths changed
 Test number 45: Failure OOM
 Test number 46: Failure OOM again getting bigger machine
 Test number 47: Failure didn't update webhook
-Test number 48: 
+Test number 48:
+Test number 49: Success activation based on github name
+Test number 50:
