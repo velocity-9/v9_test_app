@@ -50,4 +50,5 @@ Test number 48:
 Test number 49: Success activation based on github name
 Test number 50: Failure, worker 2 was full of tars
 Test number 51: -
-Test number 52: 
+Test number 52: Failure: worker ran locally but scp was pointed at AWS
+Test number 53:
