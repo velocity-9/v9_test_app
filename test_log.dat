@@ -52,4 +52,5 @@ Test number 50: Failure, worker 2 was full of tars
 Test number 51: -
 Test number 52: Failure: worker ran locally but scp was pointed at AWS
 Test number 53: Failure: deleted .tar.gz before local worker could use it
-Test number 54: 
+Test number 54: Failure: incorrect path to .tar.gz
+Test number 55:
