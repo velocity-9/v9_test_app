@@ -53,4 +53,5 @@ Test number 51: -
 Test number 52: Failure: worker ran locally but scp was pointed at AWS
 Test number 53: Failure: deleted .tar.gz before local worker could use it
 Test number 54: Failure: incorrect path to .tar.gz
-Test number 55:
+Test number 55: Success: used relative paths and made some PR changes
+Test number 56: 
