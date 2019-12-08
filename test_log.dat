@@ -59,4 +59,5 @@ Test number 57: Failure: path not set correctly
 Test number 58: Failure: path not set correctly
 Test number 59: Success: env variables used
 Test number 60: Success: used env variables without any globals
-Test number 61: 
+Test number 61: Success: used env variables but ran locally
+Test number 62:
