@@ -63,4 +63,5 @@ Test number 61: Success: used env variables but ran locally
 Test number 62: Failure: did not update github webhook
 Test number 63: Failure: did not establish SCP connection ":22" is wrong
 Test number 64: Failure: scp url look up failed
-Test number 65:  
+Test number 65: Failure: port not included in address
+Test number 66: 
