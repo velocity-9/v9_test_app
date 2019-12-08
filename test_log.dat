@@ -58,4 +58,5 @@ Test number 56: Success: moved docker logic into docker.go
 Test number 57: Failure: path not set correctly
 Test number 58: Failure: path not set correctly
 Test number 59: Success: env variables used
-Test number 60: 
+Test number 60: Success: used env variables without any globals
+Test number 61: 
