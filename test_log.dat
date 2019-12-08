@@ -61,4 +61,5 @@ Test number 59: Success: env variables used
 Test number 60: Success: used env variables without any globals
 Test number 61: Success: used env variables but ran locally
 Test number 62: Failure: did not update github webhook
-Test number 63: 
+Test number 63: Failure: did not establish SCP connection ":22" is wrong
+Test number 63:
