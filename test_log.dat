@@ -64,4 +64,5 @@ Test number 62: Failure: did not update github webhook
 Test number 63: Failure: did not establish SCP connection ":22" is wrong
 Test number 64: Failure: scp url look up failed
 Test number 65: Failure: port not included in address
-Test number 66: 
+Test number 66: Success: Deployed tar.gz to AWS worker
+Test number 67:
