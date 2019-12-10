@@ -66,4 +66,5 @@ Test number 64: Failure: scp url look up failed
 Test number 65: Failure: port not included in address
 Test number 66: Success: Deployed tar.gz to AWS worker
 Test number 67: Failure: Did not connect to worker
-Test number 68: 
+Test number 68: Failure: timed out scping to worker
+Test number 69:
