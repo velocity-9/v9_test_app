@@ -69,4 +69,5 @@ Test number 67: Failure: Did not connect to worker
 Test number 68: Failure: timed out scping to worker
 Test number 69: Success: Nice.
 Test number 70: Success: deployed function and answered status call
-Test number 71:
+Test number 71: Success: status works, deploying to worker 2 works
+Test number 72:
