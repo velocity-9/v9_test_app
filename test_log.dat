@@ -68,4 +68,5 @@ Test number 66: Success: Deployed tar.gz to AWS worker
 Test number 67: Failure: Did not connect to worker
 Test number 68: Failure: timed out scping to worker
 Test number 69: Success: Nice.
-Test number 70:
+Test number 70: Success: deployed function and answered status call
+Test number 71:
