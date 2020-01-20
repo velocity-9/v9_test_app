@@ -73,4 +73,5 @@ Test number 71: Success: status works, deploying to worker 2 works
 Test number 72: Success: Update works, deactivate before activating
 Test number 73: Success: Deployed to worker 1
 Test number 73.5: Success: deployed to worker 2
-Test number 74:
+Test number 75: Success: updated env vars
+Test number 76:
